@@ -1,0 +1,24 @@
+{
+  "name": "book_api2",
+  "version": "1.0.0",
+  "description": "A book api with MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/devesty/book_api2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devesty/book_api2/issues"
+  },
+  "homepage": "https://github.com/devesty/book_api2#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^7.4.2"
+  }
+}
